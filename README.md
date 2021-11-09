@@ -1,6 +1,5 @@
 # Project
-data science project_
-House_price_prediction_using_Machine_learning_model_ 
+data science project on House price prediction using Machine learning model 
 Steps followed_
 EDA_
 Feature_selection_
