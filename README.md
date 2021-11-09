@@ -1,9 +1,9 @@
 # Project
-data science project
-House price prediction using Machine learning model 
-Steps followed
-EDA
-Feature selection
-Feature Engineering
-Linear Regression Model
+data science project_
+House_price_prediction_using_Machine_learning_model_ 
+Steps followed_
+EDA_
+Feature_selection_
+Feature_Engineering_
+Linear_Regression_Model
 
